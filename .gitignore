@@ -1,0 +1,9 @@
+# Ignore node_modules for React
+frontend/node_modules/
+
+# Ignore vendor and environment files for Laravel
+backend/vendor/
+backend/.env
+
+# Common ignore
+.DS_Store
