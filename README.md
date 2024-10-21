@@ -21,3 +21,8 @@
 ### Для запуска frontend (React):
 - Node.js 16.x или выше
 - npm или yarn
+
+## Данные для входа
+
+- **login**: text@example.com
+- **password**: 123456
