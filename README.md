@@ -24,5 +24,5 @@
 
 ## Данные для входа
 
-- **login**: text@example.com
+- **login**: test@example.com
 - **password**: 123456
